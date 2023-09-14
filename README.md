@@ -26,7 +26,7 @@ Unity 2021.3.8f1
 
 # 📌 주요 기능
 
-로그인 및 회원가입 - <a href="(https://github.com/22jinwoO/Nobans_ReturnToSpace.wiki.git)" >상세보기 - WIKI 이동</a>
+#### 로그인 및 회원가입 - <a href="(https://github.com/22jinwoO/Nobans_ReturnToSpace.wiki.git)" >상세보기 - WIKI 이동</a>
 - 플레이팹 서버를 이용한 회원가입, 로그인, 플레이어 데이터 불러오기
 - GPGS 연동 시 자동 회원가입 및 로그인
 
