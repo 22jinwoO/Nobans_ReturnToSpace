@@ -26,7 +26,7 @@ Unity 2021.3.8f1
 
 # 📌 주요 기능
 
-로그인
+로그인 및 회원가입 - <a href="[https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)](https://github.com/22jinwoO/Nobans_ReturnToSpace/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A1%9C%EA%B7%B8%EC%9D%B8)#-%EB%A1%9C%EA%B7%B8%EC%9D%B8)" >상세보기 - WIKI 이동</a>
 - 플레이팹 서버를 이용한 회원가입, 로그인, 플레이어 데이터 불러오기
 - GPGS 연동 시 자동 회원가입 및 로그인
 
