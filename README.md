@@ -49,7 +49,7 @@
 #### ✔️ 발판 생성 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Nobans_ReturnToSpace/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%B0%9C%ED%8C%90-%EC%83%9D%EC%84%B1))
 - 오브젝트 풀링을 이용해 발판 생성
 
-#### ✔️ 아이템 생성 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Nobans_ReturnToSpace/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%B0%9C%ED%8C%90-%EC%83%9D%EC%84%B1))
+#### ✔️ 아이템 생성 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Nobans_ReturnToSpace/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%95%84%EC%9D%B4%ED%85%9C-%EC%83%9D%EC%84%B1))https://github.com/22jinwoO/Nobans_ReturnToSpace/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%95%84%EC%9D%B4%ED%85%9C-%EC%83%9D%EC%84%B1))
 - 오브젝트 풀링을 이용해 아이템 생성
 
 
