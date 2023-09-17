@@ -35,11 +35,14 @@ Unity 2021.3.8f1
 - 플레이팹 서버 연동
 - 회원가입 실패 확인
 
+#### ✔️ GPGS연동 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Nobans_ReturnToSpace/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(GPGS-%EC%97%B0%EB%8F%99))
+- GPGS 연동 후 플레이팹 서버 연동
 
+  
 #### ✔️ 랭킹 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Nobans_ReturnToSpace/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%9E%AD%ED%82%B9))
 - 플레이팹 서버에서 플레이어들의 데이터 저장 및 불러오기
 
-#### ✔️ 노반
+#### ✔️ 노반 - [상세보기 - WIKI 이동](https://github.com/22jinwoO/Nobans_ReturnToSpace/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%85%B8%EB%B0%98))
 - 점프
 - 아이템 사용
 
