@@ -8,7 +8,7 @@
 우주정거장에서 지구로 추락한 외계인 노반이 우주선으로 돌아가는 것을 목표로 하는 2D 캐주얼 플랫포머 게임
 
 # 🎥 영상 포트폴리오
-<mark><U>[※ 영상 포트폴리오 링크 이동](https://drive.google.com/file/d/130FqHLHbXKFen93-RlC0mk7uOVipMfhT/view)</U></mark>
+[<mark><U>※ 영상 포트폴리오 링크 이동</U></mark>](https://drive.google.com/file/d/130FqHLHbXKFen93-RlC0mk7uOVipMfhT/view)
 
 ---
 
