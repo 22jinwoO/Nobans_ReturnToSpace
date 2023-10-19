@@ -9,11 +9,11 @@
 <details>
 <summary>인게임 스크린샷</summary>
 
-![이미지](https://github.com/22jinwoO/Nobans_ReturnToSpace/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EA%B5%AC%EA%B8%80%20%EA%B3%84%EC%A0%95%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%8B%9C%20%ED%83%80%EC%9D%B4%ED%8B%80%20%ED%99%94%EB%A9%B4.jpg)
+![이미지](https://github.com/22jinwoO/Nobans_ReturnToSpace/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%ED%95%98%ED%8A%B8%20%EC%95%84%EC%9D%B4%ED%85%9C%20%EB%A8%B9%EC%9D%84%20%EC%8B%9C%20%EC%9D%B4%ED%8E%99%ED%8A%B8.jpg)
 
 ![이미지](https://github.com/22jinwoO/Nobans_ReturnToSpace/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%202%20%EB%B0%9C%ED%8C%90%20%EB%B0%8F%20%EC%95%84%EC%9D%B4%ED%85%9C%20%EC%83%9D%EC%84%B1.jpg)
 
-![이미지]([https://github.com/22jinwoO/Nobans_ReturnToSpace/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%ED%95%98%ED%8A%B8%20%EC%95%84%EC%9D%B4%ED%85%9C%20%EB%A8%B9%EC%9D%84%20%EC%8B%9C%20%EC%9D%B4%ED%8E%99%ED%8A%B8.jpg](https://github.com/22jinwoO/Nobans_ReturnToSpace/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%202%20%EB%B0%9C%ED%8C%90%20%EB%B0%8F%20%EC%95%84%EC%9D%B4%ED%85%9C%20%EC%83%9D%EC%84%B1.jpg))
+![이미지](https://github.com/22jinwoO/Nobans_ReturnToSpace/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%202%20%EB%B0%9C%ED%8C%90%20%EB%B0%8F%20%EC%95%84%EC%9D%B4%ED%85%9C%20%EC%83%9D%EC%84%B1.jpg)
 
 ![이미지](https://github.com/22jinwoO/Nobans_ReturnToSpace/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%203%20%EB%B0%9C%ED%8C%90%20%EB%B0%8F%20%EC%95%84%EC%9D%B4%ED%85%9C%20%EC%83%9D%EC%84%B1.jpg)
 </details>
