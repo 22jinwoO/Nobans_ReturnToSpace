@@ -20,7 +20,7 @@
 </details>
 
 # 🎥 영상 포트폴리오
-[![※ 영상 포트폴리오 링크 이동](https://youtu.be/XKINDJd4YTM/0.jpg)](https://youtu.be/XKINDJd4YTM)
+[![Video Label](http://img.youtube.com/vi/XKINDJd4YTM/0.jpg)](https://www.youtube.com/watch?v=XKINDJd4YTM)
 
 ---
 
