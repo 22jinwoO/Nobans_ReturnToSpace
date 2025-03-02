@@ -20,7 +20,7 @@
 </details>
 
 # 🎥 영상 포트폴리오
-[※ 영상 포트폴리오 링크 이동][![Video Label](https://drive.google.com/file/d/130FqHLHbXKFen93-RlC0mk7uOVipMfhT/0.jpg)](https://drive.google.com/file/d/130FqHLHbXKFen93-RlC0mk7uOVipMfhT/view)
+[※ 영상 포트폴리오 링크 이동][(https://drive.google.com/file/d/130FqHLHbXKFen93-RlC0mk7uOVipMfhT/0.jpg)](https://drive.google.com/file/d/130FqHLHbXKFen93-RlC0mk7uOVipMfhT/view)
 
 ---
 
