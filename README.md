@@ -21,7 +21,7 @@
 
 # 🎥 영상 포트폴리오
 [![Video Label](http://img.youtube.com/vi/XKINDJd4YTM/0.jpg)](https://www.youtube.com/watch?v=XKINDJd4YTM)
-이미지 클릭
+- 이미지 클릭
 
 ---
 
